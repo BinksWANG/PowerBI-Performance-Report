@@ -1,4 +1,4 @@
-# 📊 Power BI Gross Profit Dashboard
+# 📊 Power BI Performance Report
 
 An interactive Power BI dashboard designed to **track gross profit, sales, and quantity over time**. Enables quick insights and easy exploration of key business metrics.
 
@@ -23,6 +23,14 @@ An interactive Power BI dashboard designed to **track gross profit, sales, and q
 
 ---
 
+## 📂 Dataset
+
+The dashboard uses the **Plant Sales Dataset** from Kaggle:  
+[Florist Shop Dataset](https://www.kaggle.com/datasets/xavierberge/florist-shop-dataset)  
+
+> You can download this dataset to explore or refresh the dashboard locally.
+
+---
 ## 📸 Dashboard Preview
 <img width="1910" height="973" alt="image" src="https://github.com/user-attachments/assets/14870631-4ad1-411d-9b39-93df3fc97a8b" />
 
