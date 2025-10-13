@@ -17,7 +17,7 @@ An interactive Power BI dashboard designed to **track gross profit, sales, and q
 | File | Description |
 | :--- | :--- |
 | `PerformanceReportDemo.pbix` | Main Power BI file with visuals, data model, and calculations. |
-| `screenshot.png` | Preview of the dashboard. |
+| `Screenshot.png` | Preview of the dashboard. |
 | `Plant_DTS.csv` | Optional sample dataset (safe to share). |
 | `README.md` | Project overview and instructions. |
 
@@ -32,8 +32,7 @@ The dashboard uses the **Plant Sales Dataset** from Kaggle:
 
 ---
 ## 📸 Dashboard Preview
-<img width="1910" height="973" alt="image" src="https://github.com/user-attachments/assets/14870631-4ad1-411d-9b39-93df3fc97a8b" />
-
+<img width="1910" height="973" alt="Dashboard" src="Screenshot.png" />
 ---
 
 ## 🚀 How to View
